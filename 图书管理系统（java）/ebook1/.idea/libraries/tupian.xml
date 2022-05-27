@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tupian">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tupian.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
